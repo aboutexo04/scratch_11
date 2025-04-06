@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const steps = [
   { 
-    title: "Week 10 - Function art",
+    title: "Week 11 - Function art",
     description: "Today, we'll create art work using functions in Scratch!",
     images: ["images/first.png"] // Removed leading slash
   },
@@ -20,11 +20,6 @@ const steps = [
   {
     title: "Step 1: Open Scratch and remix today's start project(week11)",
     description: "Please share the start file I provided at the studio Week11. My Stuff -> My Studio -> Week11 -> Start File",
-  },
-  {
-    title: "Step 2: Functions in Scratch",
-    description: "As you can see, drawing starts with a space key, and it stops with a 'c' key.",
-    images: ["images/basic.png"] // Removed leading slash
   },
   {
     title: "Step 2: Let's start coding with basic structure",
